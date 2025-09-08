@@ -9,6 +9,7 @@
 ## 8.Inventory Sales Management System.
 ## 9.Student Management System.
 ## 10.Shopping Cart & Hotel Reservation System.
+## 11. Library Management System (LMS).
 ----------------------------------------------------------------
 ## 1.Gym Management System (GMS).
 ![WhatsApp Image 2025-09-05 at 12 42 00_4d296c5e](https://github.com/user-attachments/assets/fedbc010-b66d-4c0a-9994-7ff7203a6166)
@@ -400,3 +401,49 @@ It combines an **online hotel booking system** with a **shopping cart feature** 
 ***
 https://www.getyourprojectdone.in/projects/Shopping-Cart-Management-System
 ***
+
+## 11. Library Management System (LMS).
+<img width="1914" height="924" alt="Screenshot 2025-08-22 151059" src="https://github.com/user-attachments/assets/be245d56-b77f-4a32-a665-3e0a2574946f" />
+
+The Library Management System (LMS) is a web-based application designed to manage and automate library operations within educational institutions.
+Traditionally, library record keeping is manual, error-prone, and time-consuming. LMS solves this by ensuring efficient book tracking, student registration, and book issue/return management.
+
+-It provides a user-friendly interface, supports student authentication, and dynamically manages book availability through its database.
+
+-It is built with:
+
+-PHP (server-side scripting)
+
+-MySQL (relational database, schema included in lib.sql)
+
+-Bootstrap, HTML5, CSS3 (responsive frontend)
+
+
+## 1. Features
+
+- Admin Login – secure access for managing system
+- Student Registration – add, update, delete student records
+- Book Management – add, update, delete books
+- Book Issue/Return – track which student borrowed which book
+- Availability Check – dynamically updates available copies
+- Search Functionality – search books by name, author, or department
+- Digital Copy Support – store file path for e-books (PDFs)
+- Responsive UI – works on desktop & mobile
+
+----
+
+## 2. Advantages
+
+- Saves time and effort in managing library records
+- Prevents duplication and human errors
+- Scalable for schools, colleges, and universities
+- Ensures data integrity through normalization and indexing
+- Provides easy modifications (update, delete, reallocate)
+- Modular architecture – can be extended for online library portals
+
+  ----
+  ## Project  Links:
+***
+https://www.getyourprojectdone.in/projects/Library-Management-System
+***
+
